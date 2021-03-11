@@ -1,0 +1,4 @@
+baseURL = "http://lsycamore.co.uk/"
+languageCode = "en-us"
+title = "Lucas Sycamore - Portfolio"
+theme = "twenty-twenty"
